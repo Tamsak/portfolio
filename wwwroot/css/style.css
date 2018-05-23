@@ -1,0 +1,29 @@
+h1{
+    color: rgb(39, 39, 177);
+    margin-left: 40px;
+}
+h2{
+    margin-left: 40px;
+}
+ul{
+    display: inline;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 200px;
+    Height: 200px;
+    margin-left: 40px;
+}
+p{
+    margin-left:40px; 
+}
+fieldset {
+    width:200px;
+    margin-left: 40px;
+}
+

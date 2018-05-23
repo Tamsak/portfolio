@@ -1,0 +1,11 @@
+C:\Users\Nadia\DojoCsharp\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.deps.json
+C:\Users\Nadia\DojoCsharp\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.runtimeconfig.json
+C:\Users\Nadia\DojoCsharp\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.runtimeconfig.dev.json
+C:\Users\Nadia\DojoCsharp\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.dll
+C:\Users\Nadia\DojoCsharp\Portfolio\bin\Debug\netcoreapp2.0\Portfolio.pdb
+C:\Users\Nadia\DojoCsharp\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.csprojAssemblyReference.cache
+C:\Users\Nadia\DojoCsharp\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\Nadia\DojoCsharp\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.AssemblyInfoInputs.cache
+C:\Users\Nadia\DojoCsharp\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.AssemblyInfo.cs
+C:\Users\Nadia\DojoCsharp\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.dll
+C:\Users\Nadia\DojoCsharp\Portfolio\obj\Debug\netcoreapp2.0\Portfolio.pdb
